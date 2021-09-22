@@ -1,6 +1,6 @@
 # Proyecto IV UGR
 
-El siguiente proyecto tiene como fin dar seguimiento, fomentar y dar más apoyo al deporte de Rugby en la Ciudad de Guatemala, de forma que se cuente con una plataforma informativa sobre noticias, resultados, tabla de posiciones y posible información general del deporte en el país.
+El siguiente proyecto tiene como fin dar seguimiento, fomentar y dar más apoyo al deporte de Rugby en la Ciudad de Guatemala, de forma que se cuente con una plataforma informativa sobre noticias, resultados, tabla de posiciones y posible información general del deporte en el país. Esto comienza a resolver el problema de la falta de apoyo a los deportes en Guatemala y permite incentivar a las personas a tener un mayor interés por el Rugby en Guatemala.
 
 ## Descripción
 
