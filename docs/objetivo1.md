@@ -10,6 +10,15 @@ En esta documentación se puede encontrar los perfiles de usuario iniciales junt
  
  -  **Aficionado del fútbol apostador:** Se describe al usuario como Javier Reyes, de 28 años de edad. Le gusta bastante los deportes pero más allá le gusta apostar y ganarle a la casa. Cree que ganar en  las apuestas del fútbol son cuestión de estrategia e investigación. Por ello, cada semana busca la mejor apuesta y más segura intentando ganar dinero. Javier quiere poder obtener información estadísticas previa de partidos del fin de semana que viene y también obtener información sobre el historial reciente de los resultados entre dichos equipos. Javier quiere obtener una recomendación de apuesta para un partido y también le gustaría obtener una serie de recomendaciones de las mejores apuestas que puede realizar en un fin de semana.
 
+## Historias de Uusario
+|ID | Historia de Usuario| 
+|--|--|
+|[HU1](https://github.com/sorozcov/proyecto-iv-ugr/issues/2)|[HU1] Aficionado del fútbol curioso de las apuestas|
+|[HU2](https://github.com/sorozcov/proyecto-iv-ugr/issues/3)| [HU2] Aficionado del fútbol de un equipo-1 |
+|[HU3](https://github.com/sorozcov/proyecto-iv-ugr/issues/4)|[HU3] Aficionado del fútbol de un equipo-2|
+|[HU4](https://github.com/sorozcov/proyecto-iv-ugr/issues/5)|[HU4] Aficionado del fútbol apostador-1|
+|[HU5](https://github.com/sorozcov/proyecto-iv-ugr/issues/6)| [HU5] Aficionado del fútbol apostador-2|
+
 ## Milestones
 
 |ID | Milestone | Descripción | Estado|
