@@ -13,11 +13,9 @@ En esta documentación se puede encontrar los perfiles de usuario iniciales junt
 ## Historias de Uusario
 |ID | Historia de Usuario| 
 |--|--|
-|[HU1](https://github.com/sorozcov/proyecto-iv-ugr/issues/2)|[HU1] Aficionado del fútbol curioso de las apuestas|
-|[HU2](https://github.com/sorozcov/proyecto-iv-ugr/issues/3)| [HU2] Aficionado del fútbol de un equipo-1 |
-|[HU3](https://github.com/sorozcov/proyecto-iv-ugr/issues/4)|[HU3] Aficionado del fútbol de un equipo-2|
-|[HU4](https://github.com/sorozcov/proyecto-iv-ugr/issues/5)|[HU4] Aficionado del fútbol apostador-1|
-|[HU5](https://github.com/sorozcov/proyecto-iv-ugr/issues/6)| [HU5] Aficionado del fútbol apostador-2|
+|[HU1](https://github.com/sorozcov/proyecto-iv-ugr/issues/4)|[HU3] Aficionado del fútbol de un equipo|
+|[HU2](https://github.com/sorozcov/proyecto-iv-ugr/issues/5)|[HU4] Aficionado del fútbol apostador-1|
+|[HU3](https://github.com/sorozcov/proyecto-iv-ugr/issues/6)| [HU5] Aficionado del fútbol apostador-2|
 
 ## Milestones
 
