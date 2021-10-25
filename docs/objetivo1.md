@@ -3,8 +3,6 @@ En esta documentación se puede encontrar los perfiles de usuario iniciales junt
 
 
 ## Perfiles de Usuarios
-
- -  **Aficionado del fútbol curioso de las apuestas:** Se describe al usuario como Antonio Peréz, de 21 años de edad. Desde pequeño ha sido aficionado al fútbol y todas los fines de semana usa bastante de su tiempo para hacer un seguimiento de partidos de fútbol de diferentes ligas europeas. Hace poco se ha comenzado a interesar por las apuestas y le llama la atención investigar las estadísticas y probabilidades detrás de las mismas. Antonio quiere poder obtener información estadísticas previa de partidos del fin de semana que viene y también obtener información sobre el historial reciente de los resultados entre dichos equipos.
  
  -  **Aficionado del fútbol de un equipo:** Se describe al usuario como Felipe Castillo, de 35 años de edad. Especialmente es aficionado de un equipo de fútbol desde muy chico y siempre mira sus partidos todas las semanas. Apostar le parece divertido, por lo que cada semana pone un poco de dinero extra en la apuesta del partido de su equipo.  Felipe quiere poder obtener información estadísticas previa particularmente de su equipo, así como el historial reciente de los partidos que ha jugado. Finalmente, quiere obtener una recomendación de apuesta para el siguiente partido de su club de toda la vida.
  
