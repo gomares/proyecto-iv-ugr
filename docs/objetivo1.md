@@ -11,17 +11,16 @@ En esta documentación se puede encontrar los perfiles de usuario iniciales junt
 ## Historias de Uusario
 |ID | Historia de Usuario| 
 |--|--|
-|[HU1](https://github.com/sorozcov/proyecto-iv-ugr/issues/4)|[HU3] Aficionado del fútbol de un equipo|
-|[HU2](https://github.com/sorozcov/proyecto-iv-ugr/issues/5)|[HU4] Aficionado del fútbol apostador-1|
-|[HU3](https://github.com/sorozcov/proyecto-iv-ugr/issues/6)| [HU5] Aficionado del fútbol apostador-2|
+|[HU1](https://github.com/sorozcov/proyecto-iv-ugr/issues/5)|[HU4] Aficionado del fútbol apostador-1|
+|[HU2](https://github.com/sorozcov/proyecto-iv-ugr/issues/6)| [HU5] Aficionado del fútbol apostador-2|
 
 ## Milestones
 
 |ID | Milestone | Descripción | Estado|
 |--|--|--|--|
-|[M0](https://github.com/sorozcov/proyecto-iv-ugr/milestone/1)| Desarrollo de Clases Base | El desarrollo de las clases básicas para llevar a cabo el proyecto. Como por ejemplo clases de lectura de datos, de generación de estadísticas y de predicción. | No Iniciado
-|[M1](https://github.com/sorozcov/proyecto-iv-ugr/milestone/2)| Consulta de Datos| En este punto se podrá acceder a los datos, de forma que se puedan leer de un JSON y se pueda obtener información de estos en la aplicación. Es decir, los datos se encuentran parseados y se pueden mostrar en formatos leíbles para el usuario. (Equipos, Partidos y Futuros Partidos)| No Iniciado
-|[M2](https://github.com/sorozcov/proyecto-iv-ugr/milestone/3)| Filtrar y Visualizar Información | Este milestone pretende desarrollar los componentes base necesarios para mostrar información importante a los usuarios. Se puede filtrar la información de Equipos, Partidos y Partidos Futuros y el usuario puede observar dicha información en la aplicación.| No Iniciado
-|[M3](https://github.com/sorozcov/proyecto-iv-ugr/milestone/4)| Estadísticas de partidos | Este milestone pretende ya mostrar la data estadística eligiendo algún partido o equipo usando filtrado así como el historial reciente de partidos de cada equipo.| No Iniciado
-|[M4](https://github.com/sorozcov/proyecto-iv-ugr/milestone/5)| Predicción| En este milestone se puede seleccionar un partido futuro o un equipo y se podrá mostrar una predicción sobre el resultado del partido o una recomendación de apuesta en el partido.| No Iniciado
-|[M5](https://github.com/sorozcov/proyecto-iv-ugr/milestone/6)| Comparar Predicciónes| En este milestone se puede seleccionar una serie de partidos futuros y se mostrará la mejor predicción sobre cada partido de forma ordenada para que el usuario pueda comparar.| No Iniciado
+|[M0](https://github.com/sorozcov/proyecto-iv-ugr/milestone/1)| Desarrollo de Lector de Datos | Este milestone pretende el desarrollo de las clases básicas para llevar a cabo el proyecto. En este caso la clase más importante es la clase que puede leer datos de un JSON y puede almacenar los datos importantes de todos los partidos. Además, ordena esta información correctamente en cuanto al resultado del partido, las estadísticas del partido y  los pagos de apuesta previo al partido. | No Iniciado
+|[M1](https://github.com/sorozcov/proyecto-iv-ugr/milestone/2)| Filtrar y Visualizar Información |
+Se desarrolla la clase que permite filtrar y obtener la información de forma fácil sobre equipos, partidos pasados y partidos futuros (siguiente fin de semana). También el usuario puede consultar dicha información en la aplicación y verla de forma accesible y fácil.| No Iniciado
+|[M2](https://github.com/sorozcov/proyecto-iv-ugr/milestone/3)| Algoritmo de Predicción de Resultados| En este punto se puede acceder a la información de un partido y el usuario puede visualizar dicha información. A partir de lo anterior, se puede generar un algoritmo de predicción basado en la implementación de un arbol de decisión y atributos de partidos pasados tales como tiros de esquina , número de faltas, penales, posesión y más importante goles en su historial de los equipos participantes.| No Iniciado
+|[M3](https://github.com/sorozcov/proyecto-iv-ugr/milestone/4)| Estadísticas de partidos | Este milestone pretende realizar un algoritmo sencillo para calcular cuál es la mejor apuesta a la que puede acceder un usuario de un partido o ya bien de una serie de partidos. Para ello, se utilizaría el algoritmo ya completado en M2 y se generaría una forma de calcular las ganancias a partir del porcentaje de acierto de las predicciones junto con el pago de la apuesta antes de iniciar el partido.| No Iniciado
+
