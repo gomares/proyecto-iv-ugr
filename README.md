@@ -11,4 +11,6 @@ La idea inicial del proyecto se basa en la predicción de posibles outcomes de u
 ## Documentación Adicional
 La documentación adicional a este proyecto puede encontrarse aquí:
 
- - [Objetivo 1: Perfiles de usuarios y Milestones ](https://github.com/sorozcov/proyecto-iv-ugr/blob/objetivo-1/docs/objetivo1.md)
+ - [Objetivo 1: Perfiles de usuarios y Milestones ](https://github.com/sorozcov/proyecto-iv-ugr/blob/objetivo-1/docs/objetivo1.md
+
+- [Objetivo 2: Comienzo de la implementación del proyecto ](https://github.com/sorozcov/proyecto-iv-ugr/blob/objetivo-1/docs/objetivo2.md)
