@@ -1,5 +1,6 @@
 import datetime
 
+
 class Partido:
 
     """
@@ -9,22 +10,18 @@ class Partido:
 
     ---------
 
-    id : str
-        Cadena identificadora del Partido
-    equipo_visitante : str
-        Nombre del equipo visitante
-    equipo_local : str
-        Nombre del equipo local
-    goles_visitante : int
-        Goles a favor del equipo visitante
-    goles_local : int
-        Goles a favor del equipo local
-    fecha : datetime
-        Fecha y hora en la que se juega
+
+        equipos : str Array
+            Los equipos que se enfrentan
+        apuestas : Apuesta Array
+            Las apuestas seleccionadas por el apostador (Tipo, Valor)
+        mejor_apuesta : Apuesta
+            La mejor de las apuestas
+        fecha : datetime
+            Fecha y hora en la que se juega
     """
 
-    def __init__(self,id,equipo_visitante,equipo_local,goles_visitante,goles_local,fecha):
-        
+    def __init__(self, equipos, apuestas, fecha, mejor_apuesta):
         """
         Construye el objeto Partido proporcionando valores para todos sus atributos
     
@@ -32,27 +29,21 @@ class Partido:
 
         ---------
 
-        id : str
-            Cadena identificadora del Partido
-        equipo_visitante : str
-            Nombre del equipo visitante
-        equipo_local : str
-            Nombre del equipo local
-        goles_visitante : int
-            Goles a favor del equipo visitante
-        goles_local : int
-            Goles a favor del equipo local
+        equipos : str Array
+            Los equipos que se enfrentan
+        apuestas : Apuesta Array
+            Las apuestas seleccionadas por el apostador (Tipo, Valor)
+        mejor_apuesta : Apuesta
+            La mejor de las apuestas
         fecha : datetime
             Fecha y hora en la que se juega
 
         """
 
-        self.id=id
-        self.equipo_visitante = equipo_visitante
-        self.equipo_local = equipo_local
-        self.goles_visitante = goles_visitante
-        self.goles_local = goles_local
+        self.equipos = equipos
+        self.apuestas = apuestas
         self.fecha = fecha
+        self.mejor_apuesta = mejor_apuesta
 
 
 
